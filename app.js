@@ -19,8 +19,8 @@ function crachaFuncionario(funcionario){
     div.appendChild(nome)
     div.appendChild(cargo)
     container.appendChild(div)
-    
 
+    
 }
 
     
